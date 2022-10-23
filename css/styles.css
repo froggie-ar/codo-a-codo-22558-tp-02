@@ -1,0 +1,28 @@
+#boton-enviar, #boton-borrar, #boton-resumen {
+    background-color: rgb(154, 213, 65);
+    color: white;
+}
+
+.t1 {
+    font-size:0.8rem;
+    margin: 0;
+}
+
+.t2 {
+    font-size: 2rem;
+}
+
+.dotted-underline {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+    color:#000;
+}
+
+.footer-color {
+    background-color: rgb(1, 83, 92);
+}
+
+#hero-card {
+    width: 100%;
+}
+
